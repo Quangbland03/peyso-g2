@@ -144,6 +144,12 @@ margin-top: 50px;
 .course-price-col-last{
     margin-right: 50px;
 }
+.question{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    width: 1196px;
+}
 .question-ask{
     height: auto;
     width: 568px;
