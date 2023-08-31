@@ -148,7 +148,9 @@ margin-top: 50px;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
-    width: 1196px;
+    width: 1137px;
+    margin-left: 65px;
+    margin-top: 109px;
 }
 .question-ask{
     height: auto;
@@ -171,4 +173,8 @@ margin-top: 50px;
 }
 .question-ask-flex{
     display: flex;
+}
+#contact{
+    margin-top: -150px;
+    margin-bottom: 150px;
 }
