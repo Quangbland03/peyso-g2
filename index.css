@@ -422,6 +422,9 @@ margin-top: 50px;
 .row-3 .second_intro .second_intro-feature .arrow-line .fa-circle-arrow-down{
   margin-top: 15px;
   color: #A178D4;
+  position: absolute;
+  top: -5px;
+  left: 50%;
 }
 
 .row-4{
@@ -510,7 +513,7 @@ margin-top: 50px;
 }
 
 .row-4 .endline{
-  border: 1px solid #a7a9c0;
+  /* border: 1px solid #a7a9c0; */
   width: 90%;
   margin: 0 auto;
 }
